@@ -5,6 +5,7 @@
 
 Find **LC3-Interacting Region (LIR) motifs** within **intrinsically disordered regions (IDRs)** of protein sequences.  
 Disorder prediction is powered by [metapredict V2](https://github.com/idptools/metapredict).
+AI Assistant used Claude Sonnet | IDE: Pycharm 
 
 ---
 
